@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!-- ## What Is Ownership? -->
 
 ## 所有権とは？
