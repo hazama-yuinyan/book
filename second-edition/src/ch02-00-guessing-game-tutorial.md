@@ -327,7 +327,6 @@ io::stdin().read_line(&mut guess)
 その次のコード破片、`.read_line(&mut guess)`は、標準入力ハンドルの[`read_line`][read_line]<!-- ignore -->
 メソッドを呼び出して、ユーザから入力を受け付けます。また、`read_line`メソッドに対して、`&mut guess`という引数を一つ渡していますね.
 
-<<<<<<< HEAD
 [read_line]: ../../std/io/struct.Stdin.html#method.read_line
 
 <!-- The job of `read_line` is to take whatever the user types into standard input -->
