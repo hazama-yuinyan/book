@@ -84,7 +84,7 @@ WindowsのPowerShellなら、こう:
 <!-- an underscore to separate them. For example, use *hello_world.rs* rather than -->
 <!-- *helloworld.rs*. -->
 
-次にソースファイルを作り、*main.rs*と呼んでください。Rustのファイルは常に *.rs*という拡張子で終わります。
+次にソースファイルを作り、*main.rs*という名前にしてください。Rustのファイルは常に *.rs*という拡張子で終わります。
 ファイル名に2単語以上使っているなら、アンダースコアで区切ってください。例えば、*helloworld.rs*ではなく、
 *hello_world.rs*を使用してください。
 
